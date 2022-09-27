@@ -13,9 +13,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JP3015&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
-<a href="https://instagram.com/JP.0912">![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-
+<h1 align="center">
+  <a href="https://instagram.com/JP.0912">![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+</h1>
   
 
 ### Main skills:
