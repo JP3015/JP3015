@@ -15,7 +15,7 @@
 
 [<h1 align="center">
   [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com.br/JP.0912)
-</h1>]
+</h1>
   
 
 ### Main skills:
