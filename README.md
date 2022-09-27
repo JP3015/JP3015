@@ -14,7 +14,7 @@
 </p>
 
 
-<h1 href="https://instagram.com/JP.0912">![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</h1>
+<a href="https://instagram.com/JP.0912">![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
   
 
