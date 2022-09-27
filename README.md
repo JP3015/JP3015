@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JP3015&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<h1 align="center">
+[<h1 align="center">
   [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com.br/JP.0912)
 </h1>
   
