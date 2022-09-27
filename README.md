@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e74c3c?style=flat&labelColor=e74c3c&logo=instagram&logoColor=pink)](https://instagram.com/JP.0912) 
 </div>
   
 
@@ -42,7 +42,7 @@
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitors Count</b></p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JP3015}/count.svg" /></p> 
 <br></div>
   
