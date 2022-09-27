@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-e74c3c?style=flat&labelColor=e74c3c&logo=instagram&logoColor=pink)](https://instagram.com/JP.0912) 
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JP.0912) 
 </div>
   
 
