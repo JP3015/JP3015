@@ -16,7 +16,7 @@
 
 
 <div align="center">
-  <a href="https://instagram.com/JP.0912">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+  <a href="">![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 </div>
 
   
