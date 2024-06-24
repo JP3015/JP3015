@@ -14,7 +14,10 @@
 </p>
 
 
-[![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com.br/JP.0912)
+ <div>
+  <a href = "jpoaraujo00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-pedro-otoni-de-araujo-17360b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
   
 
@@ -31,7 +34,9 @@
   <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-  
+
+<br>
+
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p> 
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JP3015}/count.svg" /></p> 
